@@ -1,13 +1,3 @@
-# Maven
-target/
-
-# Eclipse
-.classpath
-.project
-.settings/
-
-# Logs
-*.log
-
-# OS
-.DS_Store
+# Default ignored files
+/shelf/
+/workspace.xml
